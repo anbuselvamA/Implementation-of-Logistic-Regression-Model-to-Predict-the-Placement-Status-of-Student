@@ -82,40 +82,51 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ## Output:
 Placement data:
+
 ![image](https://github.com/anbuselvamA/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119559871/bf54d092-cf50-400a-961a-650be2151d60)
 
-
 Salary data:
+
 ![Screenshot 2023-10-06 080629](https://github.com/anbuselvamA/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119559871/ca636049-6b2b-4020-9b5d-3d29bb850151)
 
 null function:
+
 ![Screenshot 2023-10-06 080635](https://github.com/anbuselvamA/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119559871/c9857b05-cb90-4b34-a884-b9350f15c2e9)
 
 duplicate:
+
 ![Screenshot 2023-10-06 080642](https://github.com/anbuselvamA/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119559871/6aaf62f3-84af-4182-8acb-051365b94283)
 
 label encoding:
+
 ![Screenshot 2023-10-06 080653](https://github.com/anbuselvamA/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119559871/99d97405-654e-49db-8648-a234a2f282ee)
 
 X status:
+
 ![Screenshot 2023-10-06 080659](https://github.com/anbuselvamA/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119559871/5a5e32b9-b2c6-4572-8718-076962094364)
 
 Y status:
+
 ![Screenshot 2023-10-06 080705](https://github.com/anbuselvamA/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119559871/cfd69d11-65ba-4a18-8869-26357b436204)
 
 y_prediction array:
+
 ![image](https://github.com/anbuselvamA/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119559871/d68faacd-4d88-4747-949e-bc04ed1556e7)
 
 Accuracy value:
+
 ![Screenshot 2023-10-06 080750](https://github.com/anbuselvamA/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119559871/0fe846e9-1142-40b8-8841-cf5160dcbbaa)
 
 Confusion array:
+
 ![Screenshot 2023-10-06 080755](https://github.com/anbuselvamA/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119559871/476622f9-2471-4b53-8e18-15d123a2a06b)
 
 classification report:
+
 ![Screenshot 2023-10-06 080813](https://github.com/anbuselvamA/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119559871/cf74d9e1-1ccc-4229-8297-acd508cf8c94)
 
 Prediction of LR:
+
 ![Screenshot 2023-10-06 080855](https://github.com/anbuselvamA/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119559871/f4e16084-ffb6-4ba8-8b2b-4331f5c2e9e8)
 
 
